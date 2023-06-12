@@ -1,0 +1,4 @@
+//Attributes to add to the model???
++ Velocity?
++ Phone moving distance?
++ Time after phone falling? 
